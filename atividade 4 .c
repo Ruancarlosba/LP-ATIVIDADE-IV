@@ -36,7 +36,7 @@ int main() {
 
     struct ContaBancaria minhaConta;
     minhaConta.numeroConta = 12345;
-    strcpy(minhaConta.nome_do_Titular, "Joao da Silva");
+    strcpy(minhaConta.nome_do_Titular, "Renato pereira");
     minhaConta.saldo = 1000.0;
     strcpy(minhaConta.tipo_da_Conta, "corrente");
 
